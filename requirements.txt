@@ -1,0 +1,4 @@
+jupyter==1.0.0
+jupyterlab-myst==2.0.2
+matplotlib==3.7.3
+numpy==1.25.2
