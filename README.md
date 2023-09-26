@@ -1,6 +1,6 @@
 # After school help
 
-Worked solutions to high-school science problems.
+Detailed worked solutions to high-school science problems.
 
 ## Physics
 
