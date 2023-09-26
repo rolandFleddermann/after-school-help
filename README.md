@@ -53,7 +53,7 @@ that below:
 To open a pre-existing notebook, just double click on one of the folders
 (e.g. `physics` or `maths`) and double click on a notebook file (anything
 with the ![notebook icon](jupyter-lab-notebook-icon.png) icon or any file
-with the `.ipynb` extension.  For instance, if you open the [evaporating a
+with the `.ipynb` extension).  For instance, if you open the [evaporating a
 pot of water](physics/evaporating-a-pot-of-water.ipynb) worked example file,
 you'll see something like this:
 
